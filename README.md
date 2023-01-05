@@ -1,6 +1,8 @@
 # EpoxyDuino
 
-[![AUnit Tests](https://github.com/bxparks/EpoxyDuino/actions/workflows/aunit_tests.yml/badge.svg)](https://github.com/bxparks/EpoxyDuino/actions/workflows/aunit_tests.yml)
+Fork of marvelous bxparks's EpoxyDuino
+
+[![AUnit Tests](https://github.com/hsaturn/EpoxyDuino/actions/workflows/aunit_tests.yml/badge.svg)](https://github.com/hsaturn/EpoxyDuino/actions/workflows/aunit_tests.yml)
 
 This project contains a small (but often effective) implementation of the
 Arduino programming framework for Linux, MacOS, FreeBSD (experimental) and
